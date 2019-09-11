@@ -11,9 +11,10 @@ client.on('guildMemberAdd', member => {
     let b_embed = new Discord.RichEmbed()
     .setColor('RANDOM')
     .setDescription(`hey ${member.user.username} il nous a rejoin`)
-    member.send("Hey" + member)
-    member.send("Join For join ??? ^_^")
-    member.send("https://discord.gg/EBPMMzR")
+    member.send(":heartpulse: Oui oui tu rêve pas Tu Cliques Tu Niques et de retour pour faire du sale rejoint nous vite :heartpulse: ")
+    member.send(" ")
+    member.send("`Plein de choses à Gagné. `")
+    member.send("https://discord.gg/MtcuUnA")
 
 })
         
